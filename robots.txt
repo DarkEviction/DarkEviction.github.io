@@ -1,1 +1,2 @@
-disallowed : /cks_ctf_flag.html
+User-agent: *
+Disallow: /cks_ctf_flag.html
